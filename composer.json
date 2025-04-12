@@ -1,17 +1,17 @@
 {
-    "name": ":vendor_slug/:package_slug",
-    "description": ":package_description",
+    "name": "vanquan57/mail-notification",
+    "description": "mail notification when update information user",
     "keywords": [
-        ":vendor_name",
+        "vanquan57",
         "laravel",
-        ":package_slug"
+        "mail-notification"
     ],
-    "homepage": "https://github.com/:vendor_slug/:package_slug",
+    "homepage": "https://github.com/vanquan57/mail-notification",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "vanquan57",
+            "email": "lvquan507@gmail.com",
             "role": "Developer"
         }
     ],
