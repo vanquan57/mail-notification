@@ -1,5 +1,7 @@
 <?php
+
 // app/Traits/SendsEmailNotification.php
+
 namespace VendorName\Skeleton\Traits;
 
 use Illuminate\Support\Facades\Mail;
